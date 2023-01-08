@@ -1,0 +1,229 @@
+table {
+    border-collapse: collapse; /* Remove the space between cells */
+    margin: auto;
+    border:5px solid ;
+  }
+  
+  td {
+    width: 90px;
+    height: 70px;
+   box-shadow: 10px 10px #000;;
+        align-items: center;
+        
+       
+  }
+  
+  .black1 {
+    background-color:rgb(77, 63, 2) ;
+   
+  }
+  .white1{
+    background-color: rgb(226, 226, 194);
+  }
+  .black2 {
+    background-color:rgb(77, 63, 2);
+  }
+  .white2{
+    background-color: rgb(226, 226, 194);
+  }
+  .black3{
+    background-color: rgb(77, 63, 2);
+  }
+  .white3{
+    background-color:rgb(226, 226, 194);
+  }
+  .black4 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white4{
+    background-color: rgb(226, 226, 194);
+  }
+  .black5 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white5{
+    background-color:rgb(226, 226, 194);
+  }
+  .black6 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white6{
+    background-color: rgb(226, 226, 194);
+  }
+  .black7 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white7{
+    background-color: rgb(226, 226, 194);
+  }
+  .black8 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white8{
+    background-color: rgb(226, 226, 194);
+  }
+  .black9 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white9{
+    background-color:rgb(226, 226, 194);
+  }
+  .black10 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white10{
+    background-color: rgb(226, 226, 194);
+  }
+  .white11{
+    background-color:rgb(226, 226, 194) ;
+  }
+  .black11 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white12{
+    background-color:rgb(226, 226, 194);
+  }
+  .black12 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white13{
+    background-color:rgb(226, 226, 194);
+  }
+  .black13 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white14{
+    background-color:rgb(226, 226, 194);
+  }
+  .black14 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white15{
+    background-color:rgb(226, 226, 194) ;
+  }
+  .black15 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white16{
+    background-color:rgb(226, 226, 194);
+  }
+  .black16 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white17{
+    background-color: rgb(226, 226, 194);
+  }
+  .black17 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white18{
+    background-color: rgb(226, 226, 194);
+  }
+  .black18 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white19{
+    background-color:rgb(226, 226, 194);
+  }
+  .black19 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white20{
+    background-color: rgb(226, 226, 194);
+  }
+  .black20 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white21{
+    background-color:rgb(226, 226, 194);
+  }
+  .black21 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white22{
+    background-color:rgb(226, 226, 194);
+  }
+  .black22 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white23{
+    background-color: rgb(226, 226, 194);
+  }
+  .black23 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white24{
+    background-color: rgb(226, 226, 194);
+  }
+  .black24 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white25{
+    background-color:rgb(226, 226, 194);
+  }
+  .black25 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white26{
+    background-color:rgb(226, 226, 194);
+  }
+  .black26 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white27{
+    background-color: rgb(226, 226, 194);
+  }
+  .black27 {
+    background-color:rgb(77, 63, 2);
+  }
+  .white28{
+    background-color:rgb(226, 226, 194);
+  }
+  .black28 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white29{
+    background-color:rgb(226, 226, 194);
+  }
+  .black29 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white30{
+    background-color:rgb(226, 226, 194);
+  }
+  .black30{
+    background-color: rgb(77, 63, 2);
+  }
+  .white31{
+    background-color: rgb(226, 226, 194);
+  }
+  .black31 {
+    background-color: rgb(77, 63, 2);
+  }
+  .white32{
+    background-color: rgb(226, 226, 194);
+  }
+  .black32 {
+    background-color: rgb(77, 63, 2);
+  }
+  
+
+
+  /* Add styles for the chess pieces here */
+  img {
+
+height:50px;
+width:70px;
+margin-left:13px;
+
+    
+  }
+
+  
+  .black.queen {
+    background-image: url('images/white1.png');
+    background-size: cover;
+  }
+  
+    
+
